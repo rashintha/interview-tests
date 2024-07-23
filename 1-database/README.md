@@ -13,8 +13,8 @@ This test is designed to assess your knowledge of databases and SQL.
 
 ## Tasks
 
-1. Develop a script to generate all the tables with relevant data if applicable using the (DB Diagram)[DBDiagram.svg] provided.
-2. Develop a stored procedure to insert products into the database using the (JSON File)[data.json] provided.
+1. Develop a script to generate all the tables with relevant data if applicable using the [DB Diagram](DBDiagram.svg) provided.
+2. Develop a stored procedure to insert products into the database using the [JSON File](data.json) provided.
 
 ## Instructions
 
